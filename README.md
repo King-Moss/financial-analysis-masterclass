@@ -74,5 +74,5 @@ MIT License — feel free to use, modify, and share!
 
 ## ✍️ Author
 
-Developed by [Your Name]  
+Developed by Moses Udofia  
 Feel free to connect with me on LinkedIn or GitHub.
